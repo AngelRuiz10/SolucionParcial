@@ -1,7 +1,7 @@
 /*
-Programa de la solucion del parcila de una tiendad el cual 
-trata que se ingrese un vector la cantidad de 5 nombres de producuto
-5 precio y 5 cantidades, al final realiza el calculo del precio por la cantidad.
+Programa de la solucion del parcial de una tienda el cual 
+trata que se ingrese un vector la cantidad de 5 nombres de producto
+5 precios y 5 cantidades, al final realiza el calculo del precio por la cantidad.
 */
 package javaapplication11;
 import java.util.Scanner;
